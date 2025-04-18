@@ -4,9 +4,6 @@
 
 <p align="center">I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihab-63&label=Profile%20views&color=0e75b6&style=flat" alt="shihab-63" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab-63" alt="shihab-63" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
