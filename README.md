@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **react**
-
 - 🥅 2025 Goals: **To be a Master of REACT JS, AWS, and start learning DevOps**
 
 - ⚡ Fun fact **I’m looking for help with To increase efficiency**
