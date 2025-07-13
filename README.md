@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header with animated background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Rijoan%20Maruf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Shihab%20Mollah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <!-- Animated typing with multiple lines -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%92%BB;From+Bangladesh" alt="Typing SVG" />
