@@ -71,14 +71,14 @@ currently_learning:
 <div align="center">
 
 <!-- Main stats row -->
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=mdrijoanmaruf&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrijoanmaruf&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=shihab-63&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-63&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" />
 
 <!-- Streak stats -->
-<img src="https://streak-stats.demolab.com/?user=mdrijoanmaruf&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=shihab-63&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrijoanmaruf&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shihab-63&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -88,7 +88,7 @@ currently_learning:
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mdrijoanmaruf&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=shihab-63&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 
