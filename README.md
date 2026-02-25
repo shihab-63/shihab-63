@@ -44,27 +44,6 @@ currently_learning:
 
 
 
-<!-- Tech Stack with animated icons -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
-
-<div align="center">
-
-### 🎨 **Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui,figma&theme=dark" />
-
-### ⚙️ **Backend Development**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
-
-### 🛠️ **Tools & Technologies**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify&theme=dark" />
-
-### 📱 **Languages**
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" />
-
-</div>
-
-
-
 <!-- GitHub Stats with modern cards -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
 
