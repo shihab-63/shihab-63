@@ -94,14 +94,6 @@ currently_learning:
 
 <div align="center">
 
-<!-- Social Media Badges -->
-[![LinkedIn](www.linkedin.com/in/md-shihab-mollah-19a100352)
-[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/mdrijoanmaruf](https://github.com/shihab-63))
-[![Facebook]([https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/md.rijoanmaruf](https://www.facebook.com/shihabislam.63))
-[![Instagram]()
-[![Twitter]()
-[![WhatsApp]()
-
 <!-- Contact Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a0d-9d56-6e6b8e0e1f1e.gif" width="400" />
 
